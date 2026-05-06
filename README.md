@@ -1,4 +1,4 @@
-# GPT Scratch Notebook
+# Attention Is All You Need
 
 This Jupyter notebook implements a basic bigram language model from scratch using PyTorch. It demonstrates the fundamentals of language modeling by training on Shakespeare's text and generating new sequences.
 
